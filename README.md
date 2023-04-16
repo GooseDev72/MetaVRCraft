@@ -1,2 +1,2 @@
 # MetaVRCraft
-Standalone VR Minecraft, utilizing Vivecraft Mixin and PojavLauncher on Meta Quest platform.
+A port of Minecraft: Java Edition to Meta Quest platform! Using a modded PojavLauncher, the game launches in special VR mode, but... we forgot something. Vivecraft! It also uses a special Vivecraft, that doesn't need SteamVR! You can run MetaVRCraft on your PC or natively on your Meta Quest! You don't need to play on PC, it is standalone! It supports roomscale, punching mobs and blocks, fabric mods, playing like Vivecraft on PC without PC!
